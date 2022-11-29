@@ -18,7 +18,7 @@ The above-added entry will display the remote source network address, responsibl
 Known Issues: 
 -------------
 
--    By the time you clone, or copy this script, you might find it does now give all the details. This is usually due to how the quotation marks and/or apostrophes used are transcribed when ported from one system to another. 
+-    When clone or copy the content of the script, you might find it does now give the desired result. This is usually due to how quotation marks or some special characters are transcribed when ported from one system to another.
 
 Fix:
 ----
